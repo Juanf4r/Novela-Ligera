@@ -1,0 +1,4 @@
+﻿  Novela Ligera.cpp
+C:\Users\juanf\Desktop\Novela Ligera\Novela Ligera\Novela Ligera.cpp(12,41): warning C4244: 'argumento': conversión de 'float' a 'DWORD'; posible pérdida de datos
+C:\Users\juanf\Desktop\Novela Ligera\Novela Ligera\Novela Ligera.cpp(139,31): warning C4805: '==': combinación no segura del tipo 'int' y el tipo 'bool' en la operación
+  Novela Ligera.vcxproj -> C:\Users\juanf\Desktop\Novela Ligera\x64\Debug\Novela Ligera.exe
